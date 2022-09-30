@@ -24,8 +24,8 @@ my-demo-portfolio-page
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+- Live Site URL:  https://hebrohim.github.io/myPortfolio/
 
 ## My process
 
@@ -57,6 +57,6 @@ After dsigning this component using css flexBox, i will like to also relearn the
 
 - Website - [Add your name here](https://www.your-site.com)
 
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- linkedln - https://www.linkedin.com/in/raheem-ibrahim-037940136/
 
 
