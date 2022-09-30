@@ -20,7 +20,7 @@ my-demo-portfolio-page
 
 ### Screenshot
 
-![](./screenshot.png)
+![](./images/screeShot.png)
 
 ### Links
 
